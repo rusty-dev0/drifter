@@ -1,4 +1,4 @@
-# IRL Mario Kart
+# Drifter
 
 A real-world Mario Kart inspired project combining:
 
