@@ -11,8 +11,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'gear.step',
-/* time_stamp */ '2026-05-16T10:26:20-04:00',
+/* name */ 'onlyGear.step',
+/* time_stamp */ '2026-05-17T19:06:58-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',

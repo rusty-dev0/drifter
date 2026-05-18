@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'tire.step',
-/* time_stamp */ '2026-05-16T10:28:21-04:00',
+/* name */ 'new_tires.step',
+/* time_stamp */ '2026-05-17T19:03:08-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',

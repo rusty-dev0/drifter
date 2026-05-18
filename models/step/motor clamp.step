@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'clamp.step',
-/* time_stamp */ '2026-05-16T13:18:24-04:00',
+/* name */ 'motor clamp.step',
+/* time_stamp */ '2026-05-17T19:02:38-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',

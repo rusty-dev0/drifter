@@ -1,0 +1,15 @@
+to build 1 RC car:
+2x rotary
+1x axle
+2x clamp
+2x frontWheel
+1x gear
+1x lowChasis
+1x middleChasis
+1x rackPinion
+2x rightAngle
+3x axleStand
+2x stepStand
+4x tire
+1x upperChasis
+2x backWheel
